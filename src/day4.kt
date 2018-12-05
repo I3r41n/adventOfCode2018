@@ -19,7 +19,7 @@ import java.io.File
 //        "[1518-11-05 00:03] Guard #99 begins shift"
 //).sortedArray()
 
-val input = File("data/input-day4.txt").readLines().sorted()
+private val input = File("data/input-day4.txt").readLines().sorted()
 fun main(args: Array<String>) = println(calculateMostAsleepAtAMinute())
 
 fun calculateMostMinutesAsleep(): String {

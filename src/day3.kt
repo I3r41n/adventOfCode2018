@@ -3,9 +3,9 @@ import java.io.File
 /**
  * Created by bsantos on 03/12/2018.
  */
-fun main(args: Array<String>) = println(calculaNonOverlappingId())
+fun main(args: Array<String>) = println(calculateNonOverlappingId())
 
-fun calculaNonOverlappingId () : String {
+fun calculateNonOverlappingId () : String {
     val sizes = File("data/input-day3.txt").readLines().map{l -> l.split(" ")[3].split("x").map{d -> d.toInt()}}.map{d -> d[0]*d[1]}
 
     return  getFabric().filterValues { l -> l.size == 1 }.values.map { v -> Pair(v[0].substring(1).toInt(), v[0].substring(1).toInt()) }

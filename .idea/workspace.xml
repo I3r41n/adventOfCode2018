@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f888944-7c97-44ac-81b5-7577165b4092" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/day3.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/day5.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day3.kt" afterPath="$PROJECT_DIR$/src/day3.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day4.kt" afterPath="$PROJECT_DIR$/src/day4.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +21,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day3.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day3.kt">
+      <file leaf-file-name="day5.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day5.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="116" lean-forward="false" selection-start-line="11" selection-start-column="116" selection-end-line="11" selection-end-column="116" />
-              <folding>
-                <element signature="n#!!doc;n#main#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="143" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,6 +64,8 @@
         <option value="$PROJECT_DIR$/src/day1.kt" />
         <option value="$PROJECT_DIR$/src/day2.kt" />
         <option value="$PROJECT_DIR$/src/day3.kt" />
+        <option value="$PROJECT_DIR$/src/day4.kt" />
+        <option value="$PROJECT_DIR$/src/day5.kt" />
       </list>
     </option>
   </component>
@@ -117,9 +119,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +136,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day3Kt">
+  <component name="RunManager" selected="Kotlin.Day5Kt">
     <configuration default="false" name="Day1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Day1Kt" />
@@ -164,6 +166,32 @@
     <configuration default="false" name="Day3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Day3Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="advent2018" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Day4Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="advent2018" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Day5Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -436,16 +464,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.Day1Kt" />
       <item index="1" class="java.lang.String" itemvalue="Kotlin.Day2Kt" />
       <item index="2" class="java.lang.String" itemvalue="Kotlin.Day3Kt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.Day4Kt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.Day5Kt" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.Day3Kt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.Day2Kt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.Day1Kt" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.Day5Kt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.Day4Kt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.Day3Kt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.Day2Kt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.Day1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +524,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1849" height="1177" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -503,13 +535,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6691244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2248848" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2562258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2584394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -539,9 +571,35 @@
     <entry file="file://$PROJECT_DIR$/src/day3.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
+          <caret line="11" column="116" lean-forward="false" selection-start-line="11" selection-start-column="116" selection-end-line="11" selection-end-column="116" />
+          <folding>
+            <marker date="1544018449245" expanded="false" signature="21:65" ph="/** Created by bsantos on 03/12/2018. ...*/" />
+            <marker date="1544018449245" expanded="true" signature="178:569" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="706:1719" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="769:1253" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="821:1247" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1044:1219" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1111:1217" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1484:1698" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1507:1692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
           <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding>
-            <element signature="n#!!doc;n#main#0" expanded="false" />
+            <marker date="1544018449245" expanded="false" signature="21:65" ph="/** Created by bsantos on 03/12/2018. ...*/" />
+            <marker date="1544018449245" expanded="true" signature="178:569" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="706:1719" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="769:1253" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="821:1247" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1044:1219" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1111:1217" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1484:1698" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1507:1692" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -571,13 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Strings.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="230" column="18" lean-forward="false" selection-start-line="230" selection-start-column="18" selection-end-line="230" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -639,11 +690,345 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day3.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="116" lean-forward="false" selection-start-line="11" selection-start-column="116" selection-end-line="11" selection-end-column="116" />
+        <state relative-caret-position="45">
+          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
           <folding>
-            <element signature="n#!!doc;n#main#0" expanded="false" />
+            <marker date="1544018449245" expanded="false" signature="21:65" ph="/** Created by bsantos on 03/12/2018. ...*/" />
+            <marker date="1544018449245" expanded="true" signature="178:569" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="706:1719" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="769:1253" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="821:1247" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1044:1219" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1111:1217" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1484:1698" ph="{...}" />
+            <marker date="1544018449245" expanded="true" signature="1507:1692" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1544018621370" expanded="true" signature="1040:1483" ph="{...}" />
+            <marker date="1544018621370" expanded="true" signature="1528:1744" ph="{...}" />
+            <marker date="1544018621370" expanded="true" signature="2120:2687" ph="{...}" />
+            <marker date="1544018621370" expanded="true" signature="2270:2514" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Strings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="477" column="25" lean-forward="false" selection-start-line="477" selection-start-column="25" selection-end-line="477" selection-end-column="25" />
+          <folding>
+            <marker date="1543698726675" expanded="true" signature="298:445" ph="/** Returns a character at the given [index] or throws an [IndexOutOfBoundsException] if the [index] is out of bounds of this char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="533:558" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="560:719" ph="/** Returns a character at the given [index] or the result of calling the [defaultValue] function if the [index] is out of bounds of this char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="842:930" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="932:1048" ph="/** Returns a character at the given [index] or `null` if the [index] is out of bounds of this char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1143:1179" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1181:1293" ph="/** Returns the first character matching the given [predicate], or `null` if no such character was found. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1395:1432" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1434:1545" ph="/** Returns the last character matching the given [predicate], or `null` if no such character was found. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1651:1687" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1689:1791" ph="/** Returns first character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1830:1935" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1937:2074" ph="/** Returns the first character matching the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2148:2312" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="2314:2394" ph="/** Returns the first character, or `null` if the char sequence is empty. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2440:2487" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="2489:2597" ph="/** Returns the first character matching the given [predicate], or `null` if character was not found. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2678:2762" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="2764:2923" ph="/** Returns a character at the given [index] or the result of calling the [defaultValue] function if the [index] is out of bounds of this char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3040:3128" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="3130:3246" ph="/** Returns a character at the given [index] or `null` if the [index] is out of bounds of this char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3300:3373" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="3375:3514" ph="/** Returns index of the first character matching the given [predicate], or -1 if the char sequence does not contain such character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3594:3719" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="3623:3703" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="3661:3697" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="3721:3859" ph="/** Returns index of the last character matching the given [predicate], or -1 if the char sequence does not contain such character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3938:4074" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="3978:4058" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="4016:4052" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="4076:4181" ph="/** Returns the last character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="4219:4332" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="4334:4470" ph="/** Returns the last character matching the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="4543:4774" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="4588:4676" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="4776:4855" ph="/** Returns the last character, or `null` if the char sequence is empty. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="4900:4956" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="4958:5069" ph="/** Returns the last character matching the given [predicate], or `null` if no such character was found. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5149:5300" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="5194:5282" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="5302:5427" ph="/** Returns the single character, or throws an exception if the char sequence is empty or has more than one character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5467:5684" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="5686:5829" ph="/** Returns the single character matching the given [predicate], or throws exception if there is no or more than one matching character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5904:6368" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="5983:6200" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="6017:6194" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="6370:6478" ph="/** Returns single character, or `null` if the char sequence is empty or has more than one character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="6525:6574" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="6576:6722" ph="/** Returns the single character matching the given [predicate], or `null` if character was not found or more than one character was found. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="6804:7071" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="6883:7023" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="6917:7017" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="7073:7166" ph="/** Returns a subsequence of this char sequence with the first [n] characters removed. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="7218:7350" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="7352:7418" ph="/** Returns a string with the first [n] characters removed. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="7458:7580" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="7582:7674" ph="/** Returns a subsequence of this char sequence with the last [n] characters removed. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="7730:7854" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="7856:7921" ph="/** Returns a string with the last [n] characters removed. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="7965:8089" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="8091:8230" ph="/** Returns a subsequence of this char sequence containing all characters except last characters that satisfy the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="8320:8462" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="8464:8576" ph="/** Returns a string containing all characters except last characters that satisfy the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="8654:8794" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="8796:8936" ph="/** Returns a subsequence of this char sequence containing all characters except first characters that satisfy the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9022:9154" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9156:9269" ph="/** Returns a string containing all characters except first characters that satisfy the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9343:9465" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9467:9600" ph="/** Returns a char sequence containing only those characters from the original char sequence that match the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9683:9734" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9736:9855" ph="/** Returns a string containing only those characters from the original string that match the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9926:9988" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9990:10283" ph="/** Returns a char sequence containing only those characters from the original char sequence that match the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10385:10443" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="10445:10724" ph="/** Returns a string containing only those characters from the original string that match the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10814:10883" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="10885:11137" ph="/** Appends all characters matching the given [predicate] to the given [destination]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="11263:11401" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11284:11376" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11403:11543" ph="/** Returns a char sequence containing only those characters from the original char sequence that do not match the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="11629:11683" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11685:11811" ph="/** Returns a string containing only those characters from the original string that do not match the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="11885:11950" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11952:12048" ph="/** Appends all characters not matching the given [predicate] to the given [destination]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="12158:12263" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="12265:12357" ph="/** Appends all characters matching the given [predicate] to the given [destination]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="12464:12624" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="12499:12599" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="12626:12749" ph="/** Returns a char sequence containing characters of the original char sequence at the specified range of [indices]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="12813:12885" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="12887:12996" ph="/** Returns a string containing characters of the original string at the specified range of [indices]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13048:13118" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="13120:13230" ph="/** Returns a char sequence containing characters of the original char sequence at specified [indices]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13299:13498" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="13441:13478" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="13500:13596" ph="/** Returns a string containing characters of the original string at specified [indices]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13688:13751" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="13753:13930" ph="/** Returns a subsequence of this char sequence containing the first [n] characters from this char sequence, or the entire char sequence if this char sequence is shorter. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13982:14109" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="14111:14240" ph="/** Returns a string containing the first [n] characters from this string, or the entire string if this string is shorter. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="14280:14405" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="14407:14583" ph="/** Returns a subsequence of this char sequence containing the last [n] characters from this char sequence, or the entire char sequence if this char sequence is shorter. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="14639:14804" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="14806:14934" ph="/** Returns a string containing the last [n] characters from this string, or the entire string if this string is shorter. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="14978:15133" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="15135:15252" ph="/** Returns a subsequence of this char sequence containing last characters that satisfy the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="15342:15524" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="15382:15488" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="15421:15482" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="15526:15616" ph="/** Returns a string containing last characters that satisfy the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="15694:15848" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="15734:15830" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="15773:15824" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="15850:15972" ph="/** Returns a subsequence of this char sequence containing the first characters that satisfy the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="16058:16217" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="16129:16181" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="16219:16314" ph="/** Returns a string containing the first characters that satisfy the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="16388:16527" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="16459:16509" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="16529:16598" ph="/** Returns a char sequence with characters in reversed order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="16648:16692" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="16694:16756" ph="/** Returns a string with characters in reversed order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="16829:16888" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="16890:17207" ph="/** Returns a [Map] containing key-value pairs provided by [transform] function ...*/" />
+            <marker date="1543698726675" expanded="true" signature="17300:17425" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="17427:17800" ph="/** Returns a [Map] containing the characters from the given char sequence indexed by the key ...*/" />
+            <marker date="1543698726675" expanded="true" signature="17888:18020" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="18022:18394" ph="/** Returns a [Map] containing the values provided by [valueTransform] and indexed by [keySelector] functions applied to characters of the given char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="18511:18656" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="18658:19003" ph="/** Populates and returns the [destination] mutable map with key-value pairs, ...*/" />
+            <marker date="1543698726675" expanded="true" signature="19129:19244" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="19157:19219" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="19246:19612" ph="/** Populates and returns the [destination] mutable map with key-value pairs, ...*/" />
+            <marker date="1543698726675" expanded="true" signature="19767:19898" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="19795:19873" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="19900:20160" ph="/** Populates and returns the [destination] mutable map with key-value pairs ...*/" />
+            <marker date="1543698726675" expanded="true" signature="20291:20393" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="20319:20368" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="20395:20467" ph="/** Appends all characters to the given [destination] collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="20557:20644" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="20582:20619" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="20646:20695" ph="/** Returns a [HashSet] of all characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="20747:20810" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="20812:20866" ph="/** Returns a [List] containing all characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="20912:21039" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="21041:21125" ph="/** Returns a [MutableList] filled with all characters of this char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="21185:21237" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="21239:21377" ph="/** Returns a [Set] of all characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="21421:21580" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="21582:21633" ph="/** Returns a [SortedSet] of all characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="21712:21756" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="21758:21910" ph="/** Returns a single list of all elements yielded from results of [transform] function being invoked on each character of original char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="21997:22048" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="22050:22213" ph="/** Appends all elements yielded from results of [transform] function being invoked on each character of original char sequence, to the given [destination]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="22341:22472" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="22369:22447" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="22474:22896" ph="/** Groups characters of the original char sequence by the key returned by the given [keySelector] function ...*/" />
+            <marker date="1543698726675" expanded="true" signature="22986:23062" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="23064:23561" ph="/** Groups values returned by the [valueTransform] function applied to each character of the original char sequence ...*/" />
+            <marker date="1543698726675" expanded="true" signature="23680:23769" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="23771:24124" ph="/** Groups characters of the original char sequence by the key returned by the given [keySelector] function ...*/" />
+            <marker date="1543698726675" expanded="true" signature="24256:24448" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="24284:24423" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="24450:24878" ph="/** Groups values returned by the [valueTransform] function applied to each character of the original char sequence ...*/" />
+            <marker date="1543698726675" expanded="true" signature="25039:25244" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="25067:25219" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="25246:25527" ph="/** Creates a [Grouping] source from a char sequence to be used later with one of group-and-fold operations ...*/" />
+            <marker date="1543698726675" expanded="true" signature="25651:25851" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="25691:25849" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="25853:25996" ph="/** Returns a list containing the results of applying the given [transform] function ...*/" />
+            <marker date="1543698726675" expanded="true" signature="26069:26122" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="26124:26442" ph="/** Returns a list containing the results of applying the given [transform] function ...*/" />
+            <marker date="1543698726675" expanded="true" signature="26534:26594" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="26596:26928" ph="/** Returns a list containing only the non-null results of applying the given [transform] function ...*/" />
+            <marker date="1543698726675" expanded="true" signature="27034:27095" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="27097:27438" ph="/** Applies the given [transform] function to each character and its index in the original char sequence ...*/" />
+            <marker date="1543698726675" expanded="true" signature="27585:27707" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="27709:28036" ph="/** Applies the given [transform] function to each character and its index in the original char sequence ...*/" />
+            <marker date="1543698726675" expanded="true" signature="28169:28286" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="28288:28445" ph="/** Returns a list containing only the non-null results of applying the given [transform] function ...*/" />
+            <marker date="1543698726675" expanded="true" signature="28532:28586" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="28588:28754" ph="/** Applies the given [transform] function to each character in the original char sequence ...*/" />
+            <marker date="1543698726675" expanded="true" signature="28882:28983" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="28985:29137" ph="/** Applies the given [transform] function to each character of the original char sequence ...*/" />
+            <marker date="1543698726675" expanded="true" signature="29251:29341" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="29343:29447" ph="/** Returns a lazy [Iterable] of [IndexedValue] for each character of the original char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="29514:29560" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="29562:29634" ph="/** Returns `true` if all characters match the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="29709:29792" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="29794:29864" ph="/** Returns `true` if char sequence has at least one character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="29904:29929" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="29931:30013" ph="/** Returns `true` if at least one character matches the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="30088:30170" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="30172:30224" ph="/** Returns the length of this char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="30297:30318" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="30320:30395" ph="/** Returns the number of characters matching the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="30468:30564" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="30566:30717" ph="/** Accumulates value starting with [initial] value and applying [operation] from left to right to current accumulator value and each character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="30805:30933" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="30935:31300" ph="/** Accumulates value starting with [initial] value and applying [operation] from left to right ...*/" />
+            <marker date="1543698726675" expanded="true" signature="31407:31562" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="31564:31715" ph="/** Accumulates value starting with [initial] value and applying [operation] from right to left to each character and current accumulator value. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="31808:31980" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="31889:31955" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="31982:32347" ph="/** Accumulates value starting with [initial] value and applying [operation] from right to left ...*/" />
+            <marker date="1543698726675" expanded="true" signature="32459:32652" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="32540:32627" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="32654:32711" ph="/** Performs the given [action] on each character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="32781:32826" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="32828:33074" ph="/** Performs the given [action] on each character, providing sequential index with the character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="33163:33229" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="33231:33309" ph="/** Returns the largest character or `null` if there are no characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="33347:33507" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="33430:33490" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="33509:33634" ph="/** Returns the first character yielding the largest value of the given function or `null` if there are no characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="33722:34013" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="33846:33992" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="33926:33986" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="34015:34155" ph="/** Returns the first character having the largest value according to the provided [comparator] or `null` if there are no characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="34228:34411" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="34311:34394" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="34413:34492" ph="/** Returns the smallest character or `null` if there are no characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="34530:34690" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="34613:34673" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="34692:34818" ph="/** Returns the first character yielding the smallest value of the given function or `null` if there are no characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="34906:35197" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35030:35176" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35110:35170" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35199:35340" ph="/** Returns the first character having the smallest value according to the provided [comparator] or `null` if there are no characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35413:35596" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35496:35579" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35598:35663" ph="/** Returns `true` if the char sequence has no characters. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35704:35728" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35730:35801" ph="/** Returns `true` if no characters match the given [predicate]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35877:35959" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35961:36066" ph="/** Performs the given [action] on each character and returns the char sequence itself afterwards. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="36160:36222" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="36224:36379" ph="/** Accumulates value starting with the first character and applying [operation] from left to right to current accumulator value and each character. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="36462:36720" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="36630:36695" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="36722:37090" ph="/** Accumulates value starting with the first character and applying [operation] from left to right ...*/" />
+            <marker date="1543698726675" expanded="true" signature="37192:37457" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="37360:37432" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="37459:37609" ph="/** Accumulates value starting with last character and applying [operation] from right to left to each character and current accumulator value. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="37697:37970" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="37879:37945" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="37972:38336" ph="/** Accumulates value starting with last character and applying [operation] from right to left ...*/" />
+            <marker date="1543698726675" expanded="true" signature="38443:38737" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="38625:38712" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="38739:38859" ph="/** Returns the sum of all values produced by [selector] function applied to each character in the char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="38927:39033" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="38976:39016" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="39035:39155" ph="/** Returns the sum of all values produced by [selector] function applied to each character in the char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="39235:39346" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="39289:39329" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="39348:39761" ph="/** Splits this char sequence into a list of strings each not exceeding the given [size]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="39839:39897" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="39899:40647" ph="/** Splits this char sequence into several char sequences each not exceeding the given [size] ...*/" />
+            <marker date="1543698726675" expanded="true" signature="40756:40837" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="40839:41260" ph="/** Splits this char sequence into a sequence of strings each not exceeding the given [size]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="41351:41405" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="41407:42169" ph="/** Splits this char sequence into several char sequences each not exceeding the given [size] ...*/" />
+            <marker date="1543698726675" expanded="true" signature="42291:42380" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="42382:42635" ph="/** Splits the original char sequence into pair of char sequences, ...*/" />
+            <marker date="1543698726675" expanded="true" signature="42741:43004" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="42834:42971" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="42868:42913" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="42919:42965" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="43006:43231" ph="/** Splits the original string into pair of strings, ...*/" />
+            <marker date="1543698726675" expanded="true" signature="43319:43604" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="43412:43549" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="43446:43491" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="43497:43543" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="43606:44359" ph="/** Returns a list of snapshots of the window of the given [size] ...*/" />
+            <marker date="1543698726675" expanded="true" signature="44486:44555" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="44557:45590" ph="/** Returns a list of results of applying the given [transform] function to ...*/" />
+            <marker date="1543698726675" expanded="true" signature="45748:46164" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="45924:46144" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="46166:46923" ph="/** Returns a sequence of snapshots of the window of the given [size] ...*/" />
+            <marker date="1543698726675" expanded="true" signature="47063:47140" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="47142:48179" ph="/** Returns a sequence of results of applying the given [transform] function to ...*/" />
+            <marker date="1543698726675" expanded="true" signature="48350:48594" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="48596:48737" ph="/** Returns a list of pairs built from characters of both char sequences with same indexes. List has length of shortest char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="48817:48865" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="48867:49036" ph="/** Returns a list of values built from characters of both char sequences with same indexes using provided [transform]. List has length of shortest char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="49142:49329" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="49257:49311" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="49331:49586" ph="/** Returns a list of pairs of each two adjacent characters in this char sequence. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="49669:49714" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="49716:50054" ph="/** Returns a list containing the results of applying the given [transform] function ...*/" />
+            <marker date="1543698726675" expanded="true" signature="50167:50386" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="50299:50366" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="50388:50513" ph="/** Creates an [Iterable] instance that wraps the original char sequence returning its characters when being iterated. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="50567:50666" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="50668:50792" ph="/** Creates a [Sequence] instance that wraps the original char sequence returning its characters when being iterated. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="50846:50949" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day5.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="143" />
+          <folding />
         </state>
       </provider>
     </entry>
