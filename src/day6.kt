@@ -2,9 +2,9 @@ import java.io.File
 import kotlin.math.abs
 
 //private val input = arrayOf("1, 1", "1, 6", "8, 3" , "3, 4" , "5, 5" , "8, 9")
-//private val input = File("data/pedro.txt").readLines().toTypedArray()
+private val input = File("data/pedro.txt").readLines().toTypedArray()
 //4171 Pedro
-private val input = File("data/input-day6.txt").readLines().toTypedArray()
+//private val input = File("data/input-day6.txt").readLines().toTypedArray()
 
 fun main(args: Array<String>) = println(calculateClosest(input))
 
