@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f888944-7c97-44ac-81b5-7577165b4092" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/day7.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day6.kt" afterPath="$PROJECT_DIR$/src/day6.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/day8.kt" afterPath="$PROJECT_DIR$/src/day8.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,14 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day7.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day7.kt">
+      <file leaf-file-name="day8.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day8.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="36" column="118" lean-forward="false" selection-start-line="36" selection-start-column="101" selection-end-line="36" selection-end-column="118" />
-              <folding>
-                <element signature="n#!!doc;n#regex#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="387">
+              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +65,7 @@
         <option value="$PROJECT_DIR$/src/day1.kt" />
         <option value="$PROJECT_DIR$/src/day6.kt" />
         <option value="$PROJECT_DIR$/src/day7.kt" />
+        <option value="$PROJECT_DIR$/src/day8.kt" />
       </list>
     </option>
   </component>
@@ -153,33 +150,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day7Kt">
-    <configuration default="false" name="Day4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Day4Kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="advent2018" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Day5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Day5Kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="advent2018" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Day8Kt">
     <configuration default="false" name="Day6Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Day6Kt" />
@@ -209,6 +180,25 @@
     <configuration default="false" name="Day7Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Day7Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="advent2018" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tempCodeRunnerFile.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/tempCodeRunnerFile.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day8Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Day8Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -482,19 +472,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.Day4Kt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.Day5Kt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.Day6Kt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.Day1Kt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.Day7Kt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.Day6Kt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.Day1Kt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.Day7Kt" />
+      <item index="3" class="java.lang.String" itemvalue="JAR Application.tempCodeRunnerFile.jar" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.Day8Kt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.Day7Kt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.Day6Kt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.Day1Kt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.Day5Kt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.Day4Kt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.Day8Kt" />
+        <item index="1" class="java.lang.String" itemvalue="JAR Application.tempCodeRunnerFile.jar" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.Day7Kt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.Day6Kt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.Day1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -577,7 +567,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -693,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="371" column="15" lean-forward="false" selection-start-line="371" selection-start-column="15" selection-end-line="371" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Char.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-18">
@@ -782,42 +767,6 @@
             <marker date="1544018621370" expanded="true" signature="1528:1744" ph="{...}" />
             <marker date="1544018621370" expanded="true" signature="2120:2687" ph="{...}" />
             <marker date="1544018621370" expanded="true" signature="2270:2514" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <marker date="1544115917396" expanded="true" signature="240:537" ph="{...}" />
-            <marker date="1544115917396" expanded="true" signature="417:535" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Primitives.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="535" column="24" lean-forward="false" selection-start-line="535" selection-start-column="24" selection-end-line="535" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1544003259789" expanded="false" signature="7:38" ph="..." />
-            <marker date="1544003259789" expanded="true" signature="40:84" ph="/** Created by bsantos on 02/12/2018. ...*/" />
-            <marker date="1544003259789" expanded="true" signature="178:728" ph="{...}" />
-            <marker date="1544003259789" expanded="true" signature="373:546" ph="{...}" />
-            <marker date="1544003259789" expanded="true" signature="764:1972" ph="{...}" />
-            <marker date="1544003259789" expanded="true" signature="1029:1623" ph="{...}" />
-            <marker date="1544003259789" expanded="true" signature="1240:1378" ph="{...}" />
-            <marker date="1544003259789" expanded="true" signature="1685:1918" ph="{...}" />
-            <marker date="1544003259789" expanded="true" signature="1733:1912" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1490,13 +1439,302 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/text/regex/Regex.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="135" column="15" lean-forward="false" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
+          <folding>
+            <marker date="1543698726675" expanded="false" signature="0:600" ph="/ Copyright 2010-2017 JetBrains s.r.o. .../" />
+            <marker date="1543698726675" expanded="false" signature="646:793" ph="..." />
+            <marker date="1543698726675" expanded="true" signature="822:876" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1151:1218" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1221:1301" ph="/** Provides enumeration values to use to set regular expression options. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1400:2630" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1545:1741" ph="/** Enables multiline mode. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1801:1957" ph="/** Enables literal parsing of the pattern. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2149:2258" ph="/** Enables Unix lines mode. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2388:2500" ph="/** Enables the mode, when the expression `.` matches any character, ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2633:2915" ph="/** Represents the results from a single capturing group within a [MatchResult] of [Regex]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3000:3103" ph="/** Represents an immutable regular expression. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3209:9569" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="4659:5008" ph="/** Returns the first match of a regular expression in the [input], beginning at the specified [startIndex]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5149:5297" ph="/** Returns a sequence of all occurrences of a regular expression within the [input] string, beginning at the specified [startIndex]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5458:5647" ph="/** Attempts to match the entire [input] CharSequence against the pattern. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5765:6043" ph="/** Replaces all occurrences of this regular expression in the specified [input] string with specified [replacement] expression. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="6177:6433" ph="/** Replaces all occurrences of this regular expression in the specified [input] string with the result of ...*/" />
+            <marker date="1543698726675" expanded="true" signature="6528:7140" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="6714:6967" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="7045:7104" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="7146:7429" ph="/** Replaces the first occurrence of this regular expression in the specified [input] string with specified [replacement] expression. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="7571:7828" ph="/** Splits the [input] CharSequence around matches of this regular expression. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="7901:8070" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="8269:8469" ph="/** Returns an instance of [Pattern] with the same pattern string and options as this instance of [Regex] has. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="8702:8885" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="8729:8798" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="8908:9566" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9665:9738" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9807:9879" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9991:11627" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="10302:10925" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="10577:10776" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="10829:10919" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11036:11388" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11076:11344" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11141:11330" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11428:11625" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/text/regex/MatchResult.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="87" column="15" lean-forward="false" selection-start-line="87" selection-start-column="15" selection-end-line="87" selection-end-column="15" />
+          <folding>
+            <marker date="1543698726675" expanded="false" signature="0:600" ph="/ Copyright 2010-2016 JetBrains s.r.o. .../" />
+            <marker date="1543698726675" expanded="true" signature="623:1136" ph="/** Represents a collection of captured groups in a single match of a regular expression. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1201:1596" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1208:1541" ph="/** Returns a group with the specified [index]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1598:1715" ph="/** Extends [MatchGroupCollection] by introducing a way to get matched groups by name, when regex supports it. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1802:2047" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1808:1990" ph="/** Returns a named group with the specified [name]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2049:2122" ph="/** Represents the results from a single regular expression match. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2152:6006" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="2370:2683" ph="/** A collection of groups matched by the regular expression. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2732:3273" ph="/** A list of matched indexed group values. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3320:3627" ph="/** An instance of [MatchResult.Destructured] wrapper providing components for destructuring assignment of group values. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3702:3894" ph="/** Returns a new [MatchResult] with the results for the next match, starting at the position ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3936:4379" ph="/** Provides components for destructuring assignment of group values. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="4462:6004" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="5633:5901" ph="/** Returns destructured group values as a list of strings. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day7.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="36" column="118" lean-forward="false" selection-start-line="36" selection-start-column="101" selection-end-line="36" selection-end-column="118" />
+        <state relative-caret-position="-228">
+          <caret line="2" column="94" lean-forward="true" selection-start-line="2" selection-start-column="94" selection-end-line="2" selection-end-column="94" />
           <folding>
-            <element signature="n#!!doc;n#regex#0" expanded="false" />
+            <marker date="1544258611308" expanded="true" signature="759:1089" ph="{...}" />
+            <marker date="1544258611308" expanded="true" signature="863:1087" ph="{...}" />
+            <marker date="1544258611308" expanded="true" signature="1172:1389" ph="{...}" />
+            <marker date="1544258611308" expanded="true" signature="1246:1387" ph="{...}" />
+            <marker date="1544258611308" expanded="true" signature="1422:1759" ph="{...}" />
+            <marker date="1544258611308" expanded="true" signature="1890:3093" ph="{...}" />
+            <marker date="1544258611308" expanded="true" signature="2302:3051" ph="{...}" />
+            <marker date="1544258611308" expanded="true" signature="2450:2807" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/String.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <marker date="1543698726675" expanded="false" signature="0:600" ph="/ Copyright 2010-2016 JetBrains s.r.o. .../" />
+            <marker date="1543698726675" expanded="true" signature="618:781" ph="/** The `String` class represents character strings. All string literals in Kotlin programs, such as `&quot;abc&quot;`, are ...*/" />
+            <marker date="1543698726675" expanded="true" signature="837:1279" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="872:1005" ph="/** Returns a string obtained by concatenating this string with the string representation of the given [other] object. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="156" column="15" lean-forward="false" selection-start-line="156" selection-start-column="15" selection-end-line="156" selection-end-column="15" />
+          <folding>
+            <marker date="1543698726675" expanded="false" signature="0:600" ph="/ Copyright 2010-2015 JetBrains s.r.o. .../" />
+            <marker date="1543698726675" expanded="true" signature="672:898" ph="/** Classes that inherit from this interface can be represented as a sequence of elements that can ...*/" />
+            <marker date="1543698726675" expanded="true" signature="932:1060" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="938:1010" ph="/** Returns an iterator over the elements of this object. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1062:1349" ph="/** Classes that inherit from this interface can be represented as a sequence of elements that can ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1404:1583" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1410:1533" ph="/** Returns an iterator over the elements of this sequence that supports removing elements during iteration. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1585:1892" ph="/** A generic collection of elements. Methods in this interface support only read-only access to the collection; ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1942:2606" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="1972:2026" ph="/** Returns the size of the collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2057:2160" ph="/** Returns `true` if the collection is empty (contains no elements), `false` otherwise. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2200:2283" ph="/** Checks if the specified element is contained in this collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2424:2527" ph="/** Checks if all elements in the specified collection are contained in this collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2608:2817" ph="/** A generic collection of elements that supports adding and removing elements. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2892:4608" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="3002:3243" ph="/** Adds the specified element to the collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3289:3529" ph="/** Removes a single instance of the specified element from this ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3614:3840" ph="/** Adds all of the elements in the specified collection to this collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="3902:4154" ph="/** Removes all of this collection's elements that are also contained in the specified collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="4219:4451" ph="/** Retains only the elements in this collection that are contained in the specified collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="4516:4577" ph="/** Removes all elements from this collection. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="4610:4901" ph="/** A generic ordered collection of elements. Methods in this interface support only read-only access to the list; ...*/" />
+            <marker date="1543698726675" expanded="true" signature="4947:6696" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="5285:5359" ph="/** Returns the element at the specified index in the list. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5433:5599" ph="/** Returns the index of the first occurrence of the specified element in the list, or -1 if the specified ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5661:5826" ph="/** Returns the index of the last occurrence of the specified element in the list, or -1 if the specified ...*/" />
+            <marker date="1543698726675" expanded="true" signature="5914:6009" ph="/** Returns a list iterator over the elements in this list (in proper sequence). ...*/" />
+            <marker date="1543698726675" expanded="true" signature="6062:6192" ph="/** Returns a list iterator over the elements in this list (in proper sequence), starting at the specified [index]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="6267:6632" ph="/** Returns a view of the portion of this list between the specified [fromIndex] (inclusive) and [toIndex] (exclusive). ...*/" />
+            <marker date="1543698726675" expanded="true" signature="6698:6900" ph="/** A generic ordered collection of elements that supports adding and removing elements. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="6965:8437" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="7186:7397" ph="/** Inserts all of the elements in the specified collection [elements] into this list at the specified [index]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="7661:7839" ph="/** Replaces the element at the specified position in this list with the specified element. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="7900:7977" ph="/** Inserts an element into the list at the specified [index]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="8032:8166" ph="/** Removes an element at the specified [index] from the list. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="8439:8772" ph="/** A generic unordered collection of elements that does not support duplicate elements. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="8817:9115" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9117:9363" ph="/** A generic unordered collection of elements that does not support duplicate elements, and supports ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9426:9870" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9872:10478" ph="/** A collection that holds pairs of objects (keys and values) and supports efficiently retrieving ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10510:12342" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="10540:10608" ph="/** Returns the number of key/value pairs in the map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10639:10735" ph="/** Returns `true` if the map is empty (contains no elements), `false` otherwise. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10775:10849" ph="/** Returns `true` if the map contains the specified [key]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10899:10991" ph="/** Returns `true` if the map maps one or more keys to the specified [value]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="11061:11182" ph="/** Returns the value corresponding to the given [key], or `null` if such a key is not present in the map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="11228:11386" ph="/** Returns the value corresponding to the given [key], or [defaultValue] if such a key is not present in the map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="11506:11591" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="11610:11679" ph="/** Returns a read-only [Set] of all keys in this map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="11713:11847" ph="/** Returns a read-only [Collection] of all values in this map. Note that this collection may contain duplicate values. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="11890:11970" ph="/** Returns a read-only [Set] of all key/value pairs in this map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="12021:12084" ph="/** Represents a key/value pair held by a [Map]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="12126:12340" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="12136:12202" ph="/** Returns the key of this key/value pair. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="12238:12306" ph="/** Returns the value of this key/value pair. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="12344:12720" ph="/** A modifiable collection that holds pairs of objects (keys and values) and supports efficiently retrieving ...*/" />
+            <marker date="1543698726675" expanded="true" signature="12767:14702" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="12804:13007" ph="/** Associates the specified [value] with the specified [key] in the map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13054:13256" ph="/** Removes the specified key and its corresponding value from this map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13296:13447" ph="/** Removes the entry for the specified key only if it is mapped to the specified value. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13544:13624" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="13666:13753" ph="/** Updates this map with key/value pairs from the specified map [from]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13808:13862" ph="/** Removes all elements from this map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="13910:13976" ph="/** Returns a [MutableSet] of all keys in this map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="14019:14150" ph="/** Returns a [MutableCollection] of all values in this map. Note that this collection may contain duplicate values. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="14202:14279" ph="/** Returns a [MutableSet] of all key/value pairs in this map. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="14353:14423" ph="/** Represents a key/value pair held by a [MutableMap]. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="14482:14700" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="14492:14650" ph="/** Changes the value associated with the key of this entry. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1544115917396" expanded="true" signature="240:537" ph="{...}" />
+            <marker date="1544115917396" expanded="true" signature="417:535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1544003259789" expanded="false" signature="7:38" ph="..." />
+            <marker date="1544003259789" expanded="true" signature="40:84" ph="/** Created by bsantos on 02/12/2018. ...*/" />
+            <marker date="1544003259789" expanded="true" signature="178:728" ph="{...}" />
+            <marker date="1544003259789" expanded="true" signature="373:546" ph="{...}" />
+            <marker date="1544003259789" expanded="true" signature="764:1972" ph="{...}" />
+            <marker date="1544003259789" expanded="true" signature="1029:1623" ph="{...}" />
+            <marker date="1544003259789" expanded="true" signature="1240:1378" ph="{...}" />
+            <marker date="1544003259789" expanded="true" signature="1685:1918" ph="{...}" />
+            <marker date="1544003259789" expanded="true" signature="1733:1912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Primitives.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="535" column="24" lean-forward="false" selection-start-line="535" selection-start-column="24" selection-end-line="535" selection-end-column="24" />
+          <folding>
+            <marker date="1543698726675" expanded="false" signature="0:600" ph="/ Copyright 2010-2017 JetBrains s.r.o. .../" />
+            <marker date="1543698726675" expanded="true" signature="656:805" ph="/** Represents a 8-bit signed integer. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="875:8783" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="898:1205" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="908:1001" ph="/** A constant holding the minimum value an instance of Byte can have. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1059:1152" ph="/** A constant holding the maximum value an instance of Byte can have. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1211:1457" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1524:1770" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="1829:2075" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2132:2378" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2436:2682" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="2741:2987" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="8785:8936" ph="/** Represents a 16-bit signed integer. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9008:16926" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9031:9346" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="9041:9135" ph="/** A constant holding the minimum value an instance of Short can have. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9196:9290" ph="/** A constant holding the maximum value an instance of Short can have. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9352:9598" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9656:9902" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="9970:10216" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10273:10519" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10577:10823" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="10882:11128" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="16928:17077" ph="/** Represents a 32-bit signed integer. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="17145:25894" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="17168:17485" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="17178:17270" ph="/** A constant holding the minimum value an instance of Int can have. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="17334:17426" ph="/** A constant holding the maximum value an instance of Int can have. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="17491:17737" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="17795:18041" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="18100:18346" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="18412:18658" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="18716:18962" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="19021:19267" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="25896:26046" ph="/** Represents a 64-bit signed integer. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="26116:34929" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="26139:26485" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="26149:26242" ph="/** A constant holding the minimum value an instance of Long can have. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="26322:26415" ph="/** A constant holding the maximum value an instance of Long can have. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="26491:26737" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="26795:27041" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="27100:27346" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="27403:27649" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="27716:27962" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="28021:28267" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="34931:35115" ph="/** Represents a single-precision 32-bit IEEE 754 floating point number. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35187:42985" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35210:35884" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="35220:35313" ph="/** A constant holding the smallest positive nonzero value of Float. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35359:35448" ph="/** A constant holding the largest positive finite value of Float. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35494:35577" ph="/** A constant holding the positive infinity value of Float. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35631:35714" ph="/** A constant holding the negative infinity value of Float. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35768:35848" ph="/** A constant holding the &quot;not a number&quot; value of Float. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="35890:36136" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="36194:36440" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="36499:36745" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="36802:37048" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="37106:37352" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="37420:37666" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="42987:43172" ph="/** Represents a double-precision 64-bit IEEE 754 floating point number. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="43246:51088" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="43269:43953" ph="{...}" />
+            <marker date="1543698726675" expanded="true" signature="43279:43373" ph="/** A constant holding the smallest positive nonzero value of Double. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="43420:43510" ph="/** A constant holding the largest positive finite value of Double. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="43557:43641" ph="/** A constant holding the positive infinity value of Double. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="43696:43780" ph="/** A constant holding the negative infinity value of Double. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="43835:43916" ph="/** A constant holding the &quot;not a number&quot; value of Double. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="43959:44205" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="44263:44509" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="44568:44814" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="44871:45117" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="45175:45421" ph="/** Compares this value with the specified value for order. ...*/" />
+            <marker date="1543698726675" expanded="true" signature="45480:45726" ph="/** Compares this value with the specified value for order. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
