@@ -27,25 +27,23 @@ private fun getWinningScore(): String {
 
 
 private fun getWinningScore100(): String {
-    var ring = LinkedList<Int>()
+    var ring = LinkedList<Long>()
     val (players, lastMarble) = regex.find(input)!!.destructured
 
-    val play:(Int, Int, List<BigInteger>) -> List<BigInteger> = { player, marble, scoreboard -> when(ring.size) {
-        in arrayOf(0, 1, 2) -> {
-            ring.add(0, marble); scoreboard
-        }
-        else -> if (marble % 23 != 0) {
+    val play:(Int, Long, List<Long>) -> List<Long> = { player, marble, scoreboard -> when(ring.size) {
+        in arrayOf(0, 1, 2) -> { ring.add(0, marble); scoreboard }
+        else -> if (marble % 23 > 0) {
             ring.addLast(ring.pop()); ring.addLast(ring.pop())
             ring.push(marble)
             scoreboard
         } else {
-            val score = scoreboard.subList(0, player) + listOf(scoreboard[player] + (marble + ring[ring.size - 7]).toBigInteger()) + scoreboard.drop(player + 1)
+            val score = scoreboard.subList(0, player) + listOf(scoreboard[player] + (marble + ring[ring.size - 7])) + scoreboard.drop(player + 1)
             ring.removeAt(ring.size - 7); (ring.size-1 downTo ring.size-6).forEach {  ring.push(ring.pollLast()) }
             score
         }
     }}
 
-    return (0..lastMarble.toInt()*100).foldIndexed(List(players.toInt()){BigInteger.ZERO},
+    return (0..lastMarble.toLong()*100).foldIndexed(List<Long>(players.toInt()){0},
             {playNumber, acc, marble -> play(playNumber % (players.toInt()), marble, acc)}).max().toString()
 
 }
